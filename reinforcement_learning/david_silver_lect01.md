@@ -41,5 +41,5 @@
 
 ----
 #### Methods in RL
-    * **Exploration** finds more information in the environment while **exploitation** uses more information to maximize the reward: $\epsilon-greedy$.
-    * **Prediction** is given the policy, how do we evaluate the value while **Control** is to find the best policy to optimise the future. 
+* **Exploration** finds more information in the environment while **exploitation** uses more information to maximize the reward: $\epsilon-greedy$.
+* **Prediction** is given the policy, how do we evaluate the value while **Control** is to find the best policy to optimise the future. 
