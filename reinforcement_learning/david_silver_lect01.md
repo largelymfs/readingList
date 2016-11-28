@@ -36,8 +36,8 @@
 
 ----
 #### Fundamental Tasks
-    * Learning: improve the policy with unkown environment *Example: Playing Video Game* 
-    * Planning: improve the policy given the environment with a known model(state transition matrix). *Example:Searching*
+* Learning: improve the policy with unkown environment *Example: Playing Video Game* 
+* Planning: improve the policy given the environment with a known model(state transition matrix). *Example:Searching*
 
 ----
 #### Methods in RL
